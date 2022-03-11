@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mcpro1109
 - 👀 I’m interested in web site creation
-- 🌱 I’m currently learning PhP
+- 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on a startup
 - 📫 How to reach me ...
 
